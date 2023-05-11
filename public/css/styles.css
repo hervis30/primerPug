@@ -1,0 +1,11 @@
+h1 {  
+    color:red;
+    font-weight: bold !important;
+    background-color: pink !important;
+ }
+
+ .paragraph{
+    text-align: center !important;
+    font-size: 22px !important;
+    color: black;
+ }
